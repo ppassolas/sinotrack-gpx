@@ -1,6 +1,15 @@
 # sinotrack-gpx
 Get gpx from sinotrack files
 
+Developed in Python 3.10.9
+
+* Dependencies installed
+
+Run
+```bash
+py sinotrack-csv-gpx.py
+```
+
 Create executable:
 
 ```bash
